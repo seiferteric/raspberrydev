@@ -1,0 +1,3 @@
+Just experimenting with my new rapsberry pi 3
+
+cpu_stat.py is a cpu monitor that will drive a 10 segment LED display baes on current cpu usage
